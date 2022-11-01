@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'AIDIChatbotTest'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_975C44E762CA4C41ACEBF8AD80D1F9B9 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BD85744A838447038B54EF08D3020ACE }}
           package: .
